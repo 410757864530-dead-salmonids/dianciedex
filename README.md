@@ -33,7 +33,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/dianciedex.
+Bug reports and pull requests are welcome on GitHub at https://github.com/410757864530-dead-salmonids/dianciedex.
 
 ## License
 

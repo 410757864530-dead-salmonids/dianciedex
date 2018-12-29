@@ -1,8 +1,9 @@
-# Dianciedex
+# DiancieDex: A Ruby Pokédex
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/dianciedex`. To experiment with that code, run `bin/console` for an interactive prompt.
+DiancieDex is a Pokédex made in Ruby.
 
-TODO: Delete this and the text above, and describe your gem
+All information is taken from [PokéAPI v2](https://pokeapi.co/), specifically the
+[static JSON data](https://github.com/PokeAPI/api-data).
 
 ## Installation
 
@@ -14,7 +15,7 @@ gem 'dianciedex'
 
 And then execute:
 
-    $ bundle
+    $ bundle install
 
 Or install it yourself as:
 

@@ -1,6 +1,6 @@
-RSpec.describe Dianciedex do
+RSpec.describe DiancieDex do
   it "has a version number" do
-    expect(Dianciedex::VERSION).not_to be nil
+    expect(DiancieDex::VERSION).not_to be nil
   end
 
   it "does something useful" do
